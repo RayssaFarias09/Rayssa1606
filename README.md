@@ -32,7 +32,7 @@
         <div class="icons">
             <a href="https://www.java.com">
                 <div class="icon">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Java_Logo.png" alt="Java">
+                    <img src="{https://embarcados.com.br/wp-content/uploads/2014/03/imagem-de-destaque-28.png.webp]" alt="Java">
                 </div>
             </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
