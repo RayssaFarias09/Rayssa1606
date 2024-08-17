@@ -1,8 +1,4 @@
 ## Olá! Seja bem vindo ao meu perfil  👋
-
-<!--
-**Rayssa1606/Rayssa1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-html
 <!DOCTYPE html>
 <html>
 <head>
@@ -53,6 +49,10 @@ html
     </div>
 </body>
 </html>
+<!--
+**Rayssa1606/Rayssa1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+html
+
 
 Here are some ideas to get you started:
 
