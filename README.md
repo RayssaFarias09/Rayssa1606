@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rayssa and I'm a , from ....</h2>
+<h2 align="left">Hi 👋! My name is Rayssa and Formada em Desenvolvimento de Sistemas pela ETEC, estou atualmente aprofundando meus conhecimentos em front-end com Java no SENAC. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios e aprendizados na área de programação.....</h2>
 
 ###
 
